@@ -47,5 +47,5 @@ print(updates[0])
 ```
 #### # Мы копируем id пользователя и посылаем ему сообщение
 ```python
-bot.send_message(text='Hi!', chat_id=112****78)
+bot.send_message(text='Hi!', chat_id=112 ** ** 78)
 ```
